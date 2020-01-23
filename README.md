@@ -1,7 +1,7 @@
 # Onion.Live Tor Network Hidden Service PGP Keys
 Collection of public PGP keys used by Onion.live PGP verification tool enables you to verify PGP messages, Bitcoin, .onion addresses.
 ## The Darknet Journal
------BEGIN PGP PUBLIC KEY BLOCK-----
+\*-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF4CLscBEADKcyjxl6t2gNe1eM63YjOTDb97BAqm3QOB7sd1t3VAfBDnqyhD
 7ia/ezO5NoNGf/ZGu/GpfKO9xJh49adXv3TTEDdOjl0xMfOaji0IllyPA7xoh7js
@@ -51,7 +51,7 @@ W/x1VbJg0X7z7nvlbEhbZNn15XkwKV0Z8sRKvpS/NXJdJLvkIRie804R/ka9Qvzr
 ip/wc5RCwz4q/KQSiLaZKMblYaaVigc/YaAuliOcjUlggsluH5BaGwn92FUPlaGQ
 78U=
 =nOh+ 
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----\*
 ## Kilos
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
